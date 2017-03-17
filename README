@@ -1,0 +1,11 @@
+Nom Nom
+Usage:
+ + To eat something (create backup) use "*eats <file_name>"
+ + To restore something use "*restores <file_name>" (file_name is the name of the file you want to restore not the name of the backup)
+
+Installation:
+ + make  or  make all  -  compiles
+ + sudo make install  -  installs (auto-compiles if not compiled)
+ + sudo make uninstall   -  uninstalls
+
+Hab fun :D
